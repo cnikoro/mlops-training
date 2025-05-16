@@ -2,6 +2,9 @@ import os
 import pickle
 import click
 
+import mlflow
+from mlflow.models import infer_signature
+
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 
@@ -30,4 +33,10 @@ def run_train(data_path: str):
 
 
 if __name__ == '__main__':
-    run_train()
+    mlflow.set_tracking_uri("sqlite:///backend.db")
+    mlflow.set_experiment("nyc_taxi_experiment")
+
+    mlflow.autolog()
+
+    with mlflow.start_run():
+        run_train()
