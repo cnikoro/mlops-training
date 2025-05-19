@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-training/02-experiment-tracking/homework/mlruns/895844449958921864/b7ad3b4a75da4e16a60e7427302276b3/artifacts
+end_time: 1747414968079
+entry_point_name: ''
+experiment_id: '895844449958921864'
+lifecycle_stage: active
+run_id: b7ad3b4a75da4e16a60e7427302276b3
+run_name: glamorous-elk-920
+run_uuid: b7ad3b4a75da4e16a60e7427302276b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414949288
+status: 3
+tags: []
+user_id: codespace

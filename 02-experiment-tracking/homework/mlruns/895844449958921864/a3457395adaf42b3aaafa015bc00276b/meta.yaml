@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-training/02-experiment-tracking/homework/mlruns/895844449958921864/a3457395adaf42b3aaafa015bc00276b/artifacts
+end_time: 1747414538586
+entry_point_name: ''
+experiment_id: '895844449958921864'
+lifecycle_stage: active
+run_id: a3457395adaf42b3aaafa015bc00276b
+run_name: agreeable-doe-649
+run_uuid: a3457395adaf42b3aaafa015bc00276b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747414519626
+status: 4
+tags: []
+user_id: codespace
