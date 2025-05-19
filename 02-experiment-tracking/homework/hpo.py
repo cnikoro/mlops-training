@@ -2,6 +2,7 @@ import os
 import pickle
 import click
 import mlflow
+from mlflow.models import infer_signature
 import numpy as np
 from hyperopt import STATUS_OK, Trials, fmin, hp, tpe
 from hyperopt.pyll import scope
@@ -32,13 +33,20 @@ def run_optimization(data_path: str, num_trials: int):
 
     X_train, y_train = load_pickle(os.path.join(data_path, "train.pkl"))
     X_val, y_val = load_pickle(os.path.join(data_path, "val.pkl"))
+    signature = infer_signature(X_train, y_train)
 
     def objective(params):
 
         rf = RandomForestRegressor(**params)
-        rf.fit(X_train, y_train)
+        mlflow.end_run()
+        with mlflow.start_run():
+            rf.fit(X_train, y_train)
         y_pred = rf.predict(X_val)
-        rmse = mean_squared_error(y_val, y_pred, squared=False)
+        rmse = np.sqrt(mean_squared_error(y_val, y_pred))
+
+        mlflow.log_params(params)
+        mlflow.log_metric("rmse", rmse)
+        mlflow.sklearn.log_model(rf, "model", signature=signature)
 
         return {'loss': rmse, 'status': STATUS_OK}
 
@@ -50,13 +58,15 @@ def run_optimization(data_path: str, num_trials: int):
         'random_state': 42
     }
 
-    rstate = np.random.default_rng(42)  # for reproducible results
-    fmin(
+   
+    rstate = np.random.default_rng(42)  # for reproducible result
+    trials = Trials()
+    best = fmin(
         fn=objective,
         space=search_space,
         algo=tpe.suggest,
         max_evals=num_trials,
-        trials=Trials(),
+        trials=trials,
         rstate=rstate
     )
 
