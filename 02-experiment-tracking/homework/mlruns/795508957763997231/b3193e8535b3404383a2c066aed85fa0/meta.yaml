@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/b3193e8535b3404383a2c066aed85fa0/artifacts
+end_time: 1748007928629
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: b3193e8535b3404383a2c066aed85fa0
+run_name: nosy-worm-612
+run_uuid: b3193e8535b3404383a2c066aed85fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007917124
+status: 3
+tags: []
+user_id: codespace

@@ -61,7 +61,6 @@ def run_register_model(data_path: str, top_n: int):
 
     # Retrieve the top_n model runs and log the models
     experiment = client.get_experiment_by_name(HPO_EXPERIMENT_NAME)
-    print("hypertuned experiment: ", experiment)
     runs = client.search_runs(
         experiment_ids=experiment.experiment_id,
         run_view_type=ViewType.ACTIVE_ONLY,
@@ -73,18 +72,16 @@ def run_register_model(data_path: str, top_n: int):
 
     # Select the model with the lowest test RMSE
     experiment = client.get_experiment_by_name(EXPERIMENT_NAME)
-    print("experiment on test: ", experiment)
-    """
     best_run = client.search_runs(
         experiment_ids=experiment.experiment_id,
         run_view_type=ViewType.ACTIVE_ONLY,
         max_results=1,
-        order_by=["metrics.rmse ASC"]
+        order_by=["metrics.test_rmse ASC"]
     )[0]
 
     # Register the best model
     mlflow.register_model(model_uri=f"runs:/{best_run.info.run_id}/model",
-                          model_name="nyc_taxi_best_so_far")"""
+                          name="nyc_taxi_best_so_far")
 
 
 if __name__ == '__main__':

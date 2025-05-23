@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/2e1b3833c66f449bb3876d0775d84bd2/artifacts
+end_time: 1748008281237
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: 2e1b3833c66f449bb3876d0775d84bd2
+run_name: lyrical-zebra-585
+run_uuid: 2e1b3833c66f449bb3876d0775d84bd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748008269757
+status: 3
+tags: []
+user_id: codespace

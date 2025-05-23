@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/031af8291dc24c65a48d473eba2dbad9/artifacts
+end_time: 1748007744372
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: 031af8291dc24c65a48d473eba2dbad9
+run_name: luminous-frog-298
+run_uuid: 031af8291dc24c65a48d473eba2dbad9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007732884
+status: 3
+tags: []
+user_id: codespace

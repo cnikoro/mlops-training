@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/c71c064aec2d487181876923b1861e8b/artifacts
+end_time: 1748008269744
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: c71c064aec2d487181876923b1861e8b
+run_name: caring-grouse-654
+run_uuid: c71c064aec2d487181876923b1861e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748008257229
+status: 3
+tags: []
+user_id: codespace

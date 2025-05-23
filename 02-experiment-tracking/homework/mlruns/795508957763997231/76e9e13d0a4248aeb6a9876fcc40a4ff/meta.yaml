@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/76e9e13d0a4248aeb6a9876fcc40a4ff/artifacts
+end_time: 1748007904859
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: 76e9e13d0a4248aeb6a9876fcc40a4ff
+run_name: kindly-smelt-590
+run_uuid: 76e9e13d0a4248aeb6a9876fcc40a4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007892410
+status: 3
+tags: []
+user_id: codespace

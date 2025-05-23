@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/924d6a67e54f42e3b264c6024c8273e8/artifacts
+end_time: 1748008244803
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: 924d6a67e54f42e3b264c6024c8273e8
+run_name: shivering-snipe-624
+run_uuid: 924d6a67e54f42e3b264c6024c8273e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748008228108
+status: 3
+tags: []
+user_id: codespace

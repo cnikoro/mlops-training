@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/cff736fb35c04277903122cf9fdbdac8/artifacts
+end_time: 1748007708168
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: cff736fb35c04277903122cf9fdbdac8
+run_name: rogue-pug-663
+run_uuid: cff736fb35c04277903122cf9fdbdac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007691430
+status: 3
+tags: []
+user_id: codespace

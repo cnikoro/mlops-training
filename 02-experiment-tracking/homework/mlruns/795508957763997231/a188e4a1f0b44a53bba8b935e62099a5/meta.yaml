@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/a188e4a1f0b44a53bba8b935e62099a5/artifacts
+end_time: 1748008228095
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: a188e4a1f0b44a53bba8b935e62099a5
+run_name: caring-squid-717
+run_uuid: a188e4a1f0b44a53bba8b935e62099a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748008216999
+status: 3
+tags: []
+user_id: codespace

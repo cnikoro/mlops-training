@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748008281328
+current_stage: None
+description: ''
+last_updated_timestamp: 1748008281328
+name: nyc_taxi_best_so_far
+run_id: a188e4a1f0b44a53bba8b935e62099a5
+run_link: ''
+source: mlflow-artifacts:/795508957763997231/a188e4a1f0b44a53bba8b935e62099a5/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/795508957763997231/a188e4a1f0b44a53bba8b935e62099a5/artifacts/model
+user_id: null
+version: 2

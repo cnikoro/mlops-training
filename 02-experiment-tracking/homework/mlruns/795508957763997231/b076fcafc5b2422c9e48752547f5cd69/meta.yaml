@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/795508957763997231/b076fcafc5b2422c9e48752547f5cd69/artifacts
+end_time: 1748007732872
+entry_point_name: ''
+experiment_id: '795508957763997231'
+lifecycle_stage: active
+run_id: b076fcafc5b2422c9e48752547f5cd69
+run_name: enthused-stork-616
+run_uuid: b076fcafc5b2422c9e48752547f5cd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007720339
+status: 3
+tags: []
+user_id: codespace
