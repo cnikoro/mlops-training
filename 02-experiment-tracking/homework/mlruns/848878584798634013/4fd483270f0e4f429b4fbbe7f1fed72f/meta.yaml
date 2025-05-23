@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/4fd483270f0e4f429b4fbbe7f1fed72f/artifacts
+end_time: 1748007287721
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 4fd483270f0e4f429b4fbbe7f1fed72f
+run_name: enchanting-ox-148
+run_uuid: 4fd483270f0e4f429b4fbbe7f1fed72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007282083
+status: 3
+tags: []
+user_id: codespace

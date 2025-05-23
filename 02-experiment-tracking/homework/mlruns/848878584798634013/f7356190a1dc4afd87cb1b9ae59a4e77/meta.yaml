@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/f7356190a1dc4afd87cb1b9ae59a4e77/artifacts
+end_time: 1748007195263
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: f7356190a1dc4afd87cb1b9ae59a4e77
+run_name: flawless-robin-846
+run_uuid: f7356190a1dc4afd87cb1b9ae59a4e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007194719
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/4fbd5366aa1c4844a335d79cf3ebc95d/artifacts
+end_time: 1748007194709
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 4fbd5366aa1c4844a335d79cf3ebc95d
+run_name: wise-deer-224
+run_uuid: 4fbd5366aa1c4844a335d79cf3ebc95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007191717
+status: 3
+tags: []
+user_id: codespace

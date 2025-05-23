@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/bde31028415c459c89b3e28f4b705e4d/artifacts
+end_time: 1748007272748
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: bde31028415c459c89b3e28f4b705e4d
+run_name: luminous-fowl-452
+run_uuid: bde31028415c459c89b3e28f4b705e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007271690
+status: 3
+tags: []
+user_id: codespace

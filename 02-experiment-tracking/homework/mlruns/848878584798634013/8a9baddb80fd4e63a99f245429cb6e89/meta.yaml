@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/8a9baddb80fd4e63a99f245429cb6e89/artifacts
+end_time: 1748007234966
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 8a9baddb80fd4e63a99f245429cb6e89
+run_name: resilient-mole-843
+run_uuid: 8a9baddb80fd4e63a99f245429cb6e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007225435
+status: 3
+tags: []
+user_id: codespace

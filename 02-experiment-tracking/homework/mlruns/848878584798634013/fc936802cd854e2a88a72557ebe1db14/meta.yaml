@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/fc936802cd854e2a88a72557ebe1db14/artifacts
+end_time: 1748007271680
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: fc936802cd854e2a88a72557ebe1db14
+run_name: peaceful-squid-975
+run_uuid: fc936802cd854e2a88a72557ebe1db14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007268906
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/80f3cb21366b49c39e4b421f1d169910/artifacts
+end_time: 1748007256005
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 80f3cb21366b49c39e4b421f1d169910
+run_name: bouncy-newt-726
+run_uuid: 80f3cb21366b49c39e4b421f1d169910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007250997
+status: 3
+tags: []
+user_id: codespace

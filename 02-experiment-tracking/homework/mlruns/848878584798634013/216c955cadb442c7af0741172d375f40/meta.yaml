@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/216c955cadb442c7af0741172d375f40/artifacts
+end_time: 1748007242052
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 216c955cadb442c7af0741172d375f40
+run_name: nebulous-bear-281
+run_uuid: 216c955cadb442c7af0741172d375f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007239090
+status: 3
+tags: []
+user_id: codespace

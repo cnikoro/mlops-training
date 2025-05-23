@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/6d95e9ab7aa2498e860fea056d1ad0af/artifacts
+end_time: 1748007222208
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 6d95e9ab7aa2498e860fea056d1ad0af
+run_name: sedate-lamb-625
+run_uuid: 6d95e9ab7aa2498e860fea056d1ad0af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007212538
+status: 3
+tags: []
+user_id: codespace

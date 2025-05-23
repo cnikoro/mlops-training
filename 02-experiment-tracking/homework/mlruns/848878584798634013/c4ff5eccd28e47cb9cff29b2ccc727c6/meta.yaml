@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/c4ff5eccd28e47cb9cff29b2ccc727c6/artifacts
+end_time: 1748007186928
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: c4ff5eccd28e47cb9cff29b2ccc727c6
+run_name: whimsical-mouse-965
+run_uuid: c4ff5eccd28e47cb9cff29b2ccc727c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007178546
+status: 3
+tags: []
+user_id: codespace

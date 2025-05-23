@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/6982e0f5364d48439407bb64ae8d60f7/artifacts
+end_time: 1748007290663
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 6982e0f5364d48439407bb64ae8d60f7
+run_name: treasured-fly-356
+run_uuid: 6982e0f5364d48439407bb64ae8d60f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007287810
+status: 3
+tags: []
+user_id: codespace

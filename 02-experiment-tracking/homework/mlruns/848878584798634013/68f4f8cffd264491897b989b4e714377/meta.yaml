@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/68f4f8cffd264491897b989b4e714377/artifacts
+end_time: 1748007275705
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: 68f4f8cffd264491897b989b4e714377
+run_name: ambitious-gnat-767
+run_uuid: 68f4f8cffd264491897b989b4e714377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007272806
+status: 3
+tags: []
+user_id: codespace

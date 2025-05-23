@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/848878584798634013/ec368853b5884d4f9e71d83b54753cf4/artifacts
+end_time: 1748007198179
+entry_point_name: ''
+experiment_id: '848878584798634013'
+lifecycle_stage: active
+run_id: ec368853b5884d4f9e71d83b54753cf4
+run_name: masked-bass-699
+run_uuid: ec368853b5884d4f9e71d83b54753cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748007195304
+status: 3
+tags: []
+user_id: codespace
