@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/af22d35d493b49bb99a3ff962c15ce5b/artifacts
+end_time: 1747649102839
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: af22d35d493b49bb99a3ff962c15ce5b
+run_name: dapper-dove-358
+run_uuid: af22d35d493b49bb99a3ff962c15ce5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649099689
+status: 3
+tags: []
+user_id: codespace

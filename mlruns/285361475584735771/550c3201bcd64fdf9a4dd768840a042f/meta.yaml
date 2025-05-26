@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/550c3201bcd64fdf9a4dd768840a042f/artifacts
+end_time: 1747648999217
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 550c3201bcd64fdf9a4dd768840a042f
+run_name: useful-grub-65
+run_uuid: 550c3201bcd64fdf9a4dd768840a042f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648995344
+status: 3
+tags: []
+user_id: codespace

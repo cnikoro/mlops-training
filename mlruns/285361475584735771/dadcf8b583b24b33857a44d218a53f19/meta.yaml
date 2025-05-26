@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/dadcf8b583b24b33857a44d218a53f19/artifacts
+end_time: 1747649003465
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: dadcf8b583b24b33857a44d218a53f19
+run_name: intrigued-zebra-187
+run_uuid: dadcf8b583b24b33857a44d218a53f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649002850
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/cdefcdeb855447b78e36aa0e50cc0cd4/artifacts
+end_time: 1747649083963
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: cdefcdeb855447b78e36aa0e50cc0cd4
+run_name: receptive-skunk-198
+run_uuid: cdefcdeb855447b78e36aa0e50cc0cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649083004
+status: 3
+tags: []
+user_id: codespace

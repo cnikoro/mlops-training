@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/39a31fe3ba304c6a9b5b512e4fb35084/artifacts
+end_time: 1747649066254
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 39a31fe3ba304c6a9b5b512e4fb35084
+run_name: sincere-shark-252
+run_uuid: 39a31fe3ba304c6a9b5b512e4fb35084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649061285
+status: 3
+tags: []
+user_id: codespace

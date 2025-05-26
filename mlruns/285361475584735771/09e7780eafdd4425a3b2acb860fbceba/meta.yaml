@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/09e7780eafdd4425a3b2acb860fbceba/artifacts
+end_time: 1747649061267
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 09e7780eafdd4425a3b2acb860fbceba
+run_name: stylish-duck-649
+run_uuid: 09e7780eafdd4425a3b2acb860fbceba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649058106
+status: 3
+tags: []
+user_id: codespace

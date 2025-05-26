@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/8ceb435822d24423a6ef97b7e5c1fcb0/artifacts
+end_time: 1747649015546
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 8ceb435822d24423a6ef97b7e5c1fcb0
+run_name: silent-goat-443
+run_uuid: 8ceb435822d24423a6ef97b7e5c1fcb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649012449
+status: 3
+tags: []
+user_id: codespace

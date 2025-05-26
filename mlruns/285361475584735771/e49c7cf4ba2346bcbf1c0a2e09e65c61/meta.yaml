@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/e49c7cf4ba2346bcbf1c0a2e09e65c61/artifacts
+end_time: 1747649034816
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: e49c7cf4ba2346bcbf1c0a2e09e65c61
+run_name: abrasive-whale-919
+run_uuid: e49c7cf4ba2346bcbf1c0a2e09e65c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649031563
+status: 3
+tags: []
+user_id: codespace

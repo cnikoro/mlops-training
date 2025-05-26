@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/4d7b913d4f5e4004a90c6b0e46c6e2a2/artifacts
+end_time: 1747649069441
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 4d7b913d4f5e4004a90c6b0e46c6e2a2
+run_name: burly-sheep-561
+run_uuid: 4d7b913d4f5e4004a90c6b0e46c6e2a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649066379
+status: 3
+tags: []
+user_id: codespace

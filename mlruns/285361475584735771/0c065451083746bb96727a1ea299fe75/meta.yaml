@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/0c065451083746bb96727a1ea299fe75/artifacts
+end_time: 1747649099592
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 0c065451083746bb96727a1ea299fe75
+run_name: upbeat-sow-439
+run_uuid: 0c065451083746bb96727a1ea299fe75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649094037
+status: 3
+tags: []
+user_id: codespace

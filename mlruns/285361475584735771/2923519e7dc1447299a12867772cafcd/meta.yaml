@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/2923519e7dc1447299a12867772cafcd/artifacts
+end_time: 1747648999673
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 2923519e7dc1447299a12867772cafcd
+run_name: thoughtful-chimp-964
+run_uuid: 2923519e7dc1447299a12867772cafcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648999240
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/79f606a0028d4040b6292070a4501645/artifacts
+end_time: 1747648995182
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 79f606a0028d4040b6292070a4501645
+run_name: nebulous-fox-846
+run_uuid: 79f606a0028d4040b6292070a4501645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648986628
+status: 3
+tags: []
+user_id: codespace

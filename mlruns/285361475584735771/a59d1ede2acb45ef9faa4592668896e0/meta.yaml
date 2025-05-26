@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/a59d1ede2acb45ef9faa4592668896e0/artifacts
+end_time: 1747649057972
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: a59d1ede2acb45ef9faa4592668896e0
+run_name: delightful-swan-827
+run_uuid: a59d1ede2acb45ef9faa4592668896e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649051934
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/4cbf32c9c1184129ad6d06ebecaf6cd0/artifacts
+end_time: 1747649021687
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 4cbf32c9c1184129ad6d06ebecaf6cd0
+run_name: thoughtful-bug-823
+run_uuid: 4cbf32c9c1184129ad6d06ebecaf6cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649018517
+status: 3
+tags: []
+user_id: codespace

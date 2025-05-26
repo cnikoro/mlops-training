@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/f2c26e85697740cd8cebd63ba30720e2/artifacts
+end_time: 1747649094025
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: f2c26e85697740cd8cebd63ba30720e2
+run_name: dazzling-bug-466
+run_uuid: f2c26e85697740cd8cebd63ba30720e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649090695
+status: 3
+tags: []
+user_id: codespace

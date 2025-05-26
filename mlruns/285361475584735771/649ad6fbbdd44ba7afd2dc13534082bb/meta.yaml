@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/649ad6fbbdd44ba7afd2dc13534082bb/artifacts
+end_time: 1747649044449
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: 649ad6fbbdd44ba7afd2dc13534082bb
+run_name: debonair-ape-424
+run_uuid: 649ad6fbbdd44ba7afd2dc13534082bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649034828
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/d23561d1fbc745e4819cb6c7bed205fe/artifacts
+end_time: 1747649090632
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: d23561d1fbc745e4819cb6c7bed205fe
+run_name: likeable-rat-35
+run_uuid: d23561d1fbc745e4819cb6c7bed205fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649087208
+status: 3
+tags: []
+user_id: codespace

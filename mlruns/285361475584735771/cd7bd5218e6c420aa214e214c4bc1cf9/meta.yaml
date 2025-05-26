@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/285361475584735771/cd7bd5218e6c420aa214e214c4bc1cf9/artifacts
+end_time: 1747649018421
+entry_point_name: ''
+experiment_id: '285361475584735771'
+lifecycle_stage: active
+run_id: cd7bd5218e6c420aa214e214c4bc1cf9
+run_name: carefree-koi-183
+run_uuid: cd7bd5218e6c420aa214e214c4bc1cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649015558
+status: 3
+tags: []
+user_id: codespace
