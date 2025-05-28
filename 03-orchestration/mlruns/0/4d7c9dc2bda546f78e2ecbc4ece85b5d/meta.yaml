@@ -1,0 +1,15 @@
+artifact_uri: file:///home/src/mlruns/0/4d7c9dc2bda546f78e2ecbc4ece85b5d/artifacts
+end_time: 1748445343810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d7c9dc2bda546f78e2ecbc4ece85b5d
+run_name: crawling-doe-477
+run_uuid: 4d7c9dc2bda546f78e2ecbc4ece85b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748445343804
+status: 3
+tags: []
+user_id: root
